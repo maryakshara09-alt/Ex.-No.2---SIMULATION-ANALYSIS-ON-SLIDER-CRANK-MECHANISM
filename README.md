@@ -52,8 +52,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:S.MARY AKSHARA
+### Register Number: 212225230169
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
